@@ -22,3 +22,12 @@ events:
           kind: exact
           date: 2026-09-04
         recordedAt: 2026-09-04T12:10:53.309Z
+  - id: personal-ca558679-7b4b-4975-bcb3-f007a39f9807
+    title:
+      zh-CN: 并发 B 2026-09-04T12-08-22-161Z
+    schedule:
+      - id: 2c0e2b73-8766-4128-b8e8-d72fa3123e30
+        value:
+          kind: exact
+          date: 2026-09-04
+        recordedAt: 2026-09-04T12:10:53.306Z
