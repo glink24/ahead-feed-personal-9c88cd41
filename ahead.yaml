@@ -112,3 +112,12 @@ events:
           kind: exact
           date: 2026-09-04
         recordedAt: 2026-09-04T14:55:18.639Z
+  - id: personal-2b638a71-d521-486d-b17c-6a303d8e7953
+    title:
+      zh-CN: 发布更新 glink24 1788533476100
+    schedule:
+      - id: 8d7c43ff-4b86-4a75-ae92-9f4bd0cec950
+        value:
+          kind: exact
+          date: 2026-09-04
+        recordedAt: 2026-09-04T15:01:51.836Z
