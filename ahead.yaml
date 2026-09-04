@@ -58,3 +58,12 @@ events:
           kind: exact
           date: 2026-09-04
         recordedAt: 2026-09-04T12:16:05.961Z
+  - id: personal-53de9ab0-9beb-4205-8302-f089ee516806
+    title:
+      zh-CN: 权限恢复 1788524041353
+    schedule:
+      - id: 9468959e-2674-491f-a445-ccb18bd1c520
+        value:
+          kind: exact
+          date: 2026-09-04
+        recordedAt: 2026-09-04T12:16:36.525Z
