@@ -94,3 +94,12 @@ events:
           kind: exact
           date: 2026-09-04
         recordedAt: 2026-09-04T14:52:57.901Z
+  - id: personal-445bf804-6552-4b5b-9f97-58ffa1f9bf9e
+    title:
+      zh-CN: 离线 1788533476100
+    schedule:
+      - id: 024f4fe3-8bbd-4fca-9286-d6df323d526d
+        value:
+          kind: exact
+          date: 2026-09-04
+        recordedAt: 2026-09-04T14:54:23.820Z
